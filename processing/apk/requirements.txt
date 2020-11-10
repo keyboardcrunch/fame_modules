@@ -1,3 +1,0 @@
-androguard
-yara-python
-pyelftools

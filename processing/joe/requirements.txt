@@ -1,5 +1,0 @@
-requests
-ijson
-bs4
-jbxapi
-
